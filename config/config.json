@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "blogger",
-    "host": "127.0.0.1",
+    "username": "lalliere",
+    "password": "Jennings22!",
+    "database": "bcs-db",
+    "host": "bcs-db.ctlg2khrmdfj.us-east-2.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
   },
