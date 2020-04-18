@@ -2,9 +2,9 @@
   "development": {
     "username": "lalliere",
     "password": "Jennings22!",
-    "database": "bcs-db",
+    "database": "blogger",
     "host": "bcs-db.ctlg2khrmdfj.us-east-2.rds.amazonaws.com",
-    "port": 80,
+    "port": 3306,
     "dialect": "mysql"
   },
   "test": {
